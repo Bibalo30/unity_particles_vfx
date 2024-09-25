@@ -2,4 +2,4 @@ This unity project contains all the particle effects I used to create my VFX ree
 
 Made in Unity 3D, VFX Graph.
 
-Video link to show the particles effects included in this project: https://www.youtube.com/watch?v=Qt5mxuoqX5s
+Video link to show the particles effects included in this project: https://www.youtube.com/watch?v=evepfKUiyhA
